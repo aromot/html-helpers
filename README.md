@@ -10,6 +10,7 @@ A small library that helps writing HTML.
 ```javascript
 var hh = require('@aromot/html-helpers');
 var myStrongText = hh.strong('my text');
+// output: <strong>my text</strong>
 ```
 
 ## Tests
