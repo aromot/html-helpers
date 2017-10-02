@@ -7,8 +7,10 @@ A small library that helps writing HTML.
 `npm install @aromot/html-helpers`
 
 ## Usage
-`var hh = require('@aromot/html-helpers');
-var myStrongText = hh.strong('my text');`
+```javascript
+var hh = require('@aromot/html-helpers');
+var myStrongText = hh.strong('my text');
+```
 
 ## Tests
 `npm test`
