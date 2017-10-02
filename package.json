@@ -1,0 +1,30 @@
+{
+  "name": "@aromot/html-helpers",
+  "version": "0.1.0",
+  "description": "A collection of HTML helpers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "engines": {
+    "node": ">=3.3.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aromot/html-helpers.git"
+  },
+  "keywords": [
+    "HTML",
+    "Helpers",
+    "Javascript"
+  ],
+  "author": "Alex Romot <aromot@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aromot/html-helpers/issues"
+  },
+  "homepage": "https://github.com/aromot/html-helpers#readme",
+  "devDependencies": {
+    "mocha": "^3.5.3"
+  }
+}
